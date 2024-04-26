@@ -2666,7 +2666,7 @@ Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kite
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Spilornis elgini";"Andaman Serpent-Eagle";Andamanenslangenarend;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Pithecophaga jefferyi";"Philippine Eagle";Apenarend;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Dryotriorchis spectabilis";"Congo Serpent-Eagle";"Congolese Slangenarend";0;;
-Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Terathopius ecaudatus";Bateleur;Bateleur;0;;
+Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Terathopius ecaudatus";Bateleur;Bateleur;1;birds/terathopius-ecaudatus/large.jpg;birds/terathopius-ecaudatus/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Circaetus gallicus";"Short-toed Snake-Eagle";Slangenarend;1;birds/circaetus-gallicus/large.jpg;birds/circaetus-gallicus/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Circaetus beaudouini";"Beaudouin's Snake-Eagle";"Beaudouins Slangenarend";0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Circaetus pectoralis";"Black-chested Snake-Eagle";Zwartborstslangenarend;0;;
@@ -2688,7 +2688,7 @@ Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kite
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Nisaetus philippensis";"Philippine Hawk-Eagle";"Noord-Filippijnse Kuifarend";0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Nisaetus cirrhatus";"Changeable Hawk-Eagle";"Kuifloze Kuifarend/Indische Kuifarend";0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Nisaetus floris";"Flores Hawk-Eagle";Floreskuifarend;0;;
-Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Polemaetus bellicosus";"Martial Eagle";Vechtarend;0;;
+Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Polemaetus bellicosus";"Martial Eagle";Vechtarend;1;birds/polemaetus-bellicosus/large.jpg;birds/polemaetus-bellicosus/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Lophotriorchis kienerii";"Rufous-bellied Eagle";Roodbuikdwergarend;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Spizaetus tyrannus";"Black Hawk-Eagle";"Zwarte Kuifarend";0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Spizaetus ornatus";"Ornate Hawk-Eagle";"Bonte Kuifarend";0;;
@@ -3171,7 +3171,7 @@ Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros alboterminatus";"Crow
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros bradfieldi";"Bradfield's Hornbill";"Bradfields Tok";0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros fasciatus";"African Pied Hornbill";"Bonte Tok";0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros hemprichii";"Hemprich's Hornbill";"Hemprichs Tok";0;;
-Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros nasutus";"African Gray Hornbill";"Grijze Tok";0;;
+Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros nasutus";"African Gray Hornbill";"Grijze Tok";1;birds/lophoceros-nasutus/large.jpg;birds/lophoceros-nasutus/thumb.jpg
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros pallidirostris";"Pale-billed Hornbill";Diksnaveltok;0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus flavirostris";"Eastern Yellow-billed Hornbill";"Ethiopische Geelsnaveltok";0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus leucomelas";"Southern Yellow-billed Hornbill";"Zuidelijke Geelsnaveltok";0;;
