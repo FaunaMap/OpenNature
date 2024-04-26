@@ -1,5 +1,5 @@
 # OpenNature
-> Free open information (CC0) about nature on planet earth.
+> Free open information about nature on planet earth.
 
 We believe that data about our natural world should be open to the general public.<br>
 This library aims to provide free to use information about all living species, starting with <strong>a royalty free image of each bird species</strong>.
