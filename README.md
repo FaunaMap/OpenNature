@@ -12,7 +12,7 @@ This library aims to provide free to use information about all living species, s
 <!-- END DYNAMIC BADGES -->
 
 ## Download
-Click [here](https://github.com/FaunaMap/OpenNature/archive/refs/heads/main.zip) to download the latest archive of all images.
+Click [here](https://github.com/FaunaMap/OpenNature/archive/refs/heads/main.zip) to download the latest public archive of all images.
 
 ## Contribute
 Interested in collaborating? Create a ticket on this repo or start using the FaunaMap app in the [Google PlayStore](https://play.google.com/store/apps/details?id=org.cordova.faunamap.app) or via [app.faunamap.nl](https://app.faunamap.nl/).
