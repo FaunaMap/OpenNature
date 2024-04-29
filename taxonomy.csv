@@ -120,7 +120,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Tachyeres leucocephalus";"White-headed Steamer-Duck";Witkopbooteend;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Lophonetta specularioides";"Crested Duck";Andeseend;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Speculanas specularis";"Spectacled Duck";Bronsvleugeleend;0;;
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cairina moschata";"Muscovy Duck";Muskuseend;0;;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cairina moschata";"Muscovy Duck";Muskuseend;1;birds/cairina-moschata/large.jpg;birds/cairina-moschata/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Nettapus pulchellus";"Green Pygmy-Goose";"Groene Dwergeend";0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Nettapus coromandelianus";"Cotton Pygmy-Goose";Coromandeleend;1;birds/nettapus-coromandelianus/large.jpg;birds/nettapus-coromandelianus/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Nettapus auritus";"African Pygmy-Goose";"Afrikaanse Dwergeend";0;;
@@ -617,7 +617,7 @@ Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia x
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia roseogrisea";"African Collared-Dove";Izabeltortel;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia reichenowi";"White-winged Collared-Dove";Witvleugeltortel;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia decipiens";"Mourning Collared-Dove";Treurtortel;0;;
-Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia semitorquata";"Red-eyed Dove";Roodoogtortel;0;;
+Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia semitorquata";"Red-eyed Dove";Roodoogtortel;1;birds/streptopelia-semitorquata/large.jpg;birds/streptopelia-semitorquata/thumb.jpg
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia capicola";"Ring-necked Dove";"Kaapse Tortel";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia vinacea";"Vinaceous Dove";Wijntortel;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Streptopelia tranquebarica";"Red Collared-Dove";"Rode Tortel";0;;
@@ -2439,7 +2439,7 @@ Ciconiiformes;Ciconiidae;Storks;Storks;"Leptoptilos dubius";"Greater Adjutant";"
 Ciconiiformes;Ciconiidae;Storks;Storks;"Mycteria americana";"Wood Stork";Kaalkopooievaar;1;birds/mycteria-americana/large.jpg;birds/mycteria-americana/thumb.jpg
 Ciconiiformes;Ciconiidae;Storks;Storks;"Mycteria cinerea";"Milky Stork";"Maleise Nimmerzat";0;;
 Ciconiiformes;Ciconiidae;Storks;Storks;"Mycteria ibis";"Yellow-billed Stork";"Afrikaanse Nimmerzat";1;birds/mycteria-ibis/large.jpg;birds/mycteria-ibis/thumb.jpg
-Ciconiiformes;Ciconiidae;Storks;Storks;"Mycteria leucocephala";"Painted Stork";"Indische Nimmerzat";0;;
+Ciconiiformes;Ciconiidae;Storks;Storks;"Mycteria leucocephala";"Painted Stork";"Indische Nimmerzat";1;birds/mycteria-leucocephala/large.jpg;birds/mycteria-leucocephala/thumb.jpg
 Suliformes;Fregatidae;Frigatebirds;Frigatebirds;"Fregata ariel";"Lesser Frigatebird";"Kleine Fregatvogel";0;;
 Suliformes;Fregatidae;Frigatebirds;Frigatebirds;"Fregata aquila";"Ascension Frigatebird";Ascensionfregatvogel;0;;
 Suliformes;Fregatidae;Frigatebirds;Frigatebirds;"Fregata magnificens";"Magnificent Frigatebird";"Amerikaanse Fregatvogel";1;birds/fregata-magnificens/large.jpg;birds/fregata-magnificens/thumb.jpg
@@ -7556,7 +7556,7 @@ Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus cafer";"Red-vented Bulbul
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus jocosus";"Red-whiskered Bulbul";Roodoorbuulbuul;1;birds/pycnonotus-jocosus/large.jpg;birds/pycnonotus-jocosus/thumb.jpg
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus xanthorrhous";"Brown-breasted Bulbul";Bruinborstbuulbuul;0;;
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus sinensis";"Light-vented Bulbul";"Chinese Buulbuul";0;;
-Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus barbatus";"Common Bulbul";"Grauwe Buulbuul";0;;
+Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus barbatus";"Common Bulbul";"Grauwe Buulbuul";1;birds/pycnonotus-barbatus/large.jpg;birds/pycnonotus-barbatus/thumb.jpg
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus nigricans";"Black-fronted Bulbul";Maskerbuulbuul;0;;
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus capensis";"Cape Bulbul";"Kaapse Buulbuul";0;;
 Passeriformes;Pycnonotidae;Bulbuls;Bulbuls;"Pycnonotus xanthopygos";"White-spectacled Bulbul";"Arabische Buulbuul";0;;
