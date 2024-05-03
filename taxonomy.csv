@@ -6701,7 +6701,7 @@ Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Cy
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Cyanolyca viridicyanus";"White-collared Jay";Witkraaggaai;0;;
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Calocitta colliei";"Black-throated Magpie-Jay";"Collies Ekstergaai";0;;
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Calocitta formosa";"White-throated Magpie-Jay";Ekstergaai;0;;
-Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Psilorhinus morio";"Brown Jay";"Bruine Gaai";0;;
+Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Psilorhinus morio";"Brown Jay";"Bruine Gaai";1;birds/psilorhinus-morio/large.jpg;birds/psilorhinus-morio/thumb.jpg
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Cyanocorax dickeyi";"Tufted Jay";Kroongaai;0;;
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Cyanocorax affinis";"Black-chested Jay";Zwartborstgaai;0;;
 Passeriformes;Corvidae;"Crows, Jays, and Magpies";"Crows, Jays, and Magpies";"Cyanocorax yncas";"Green Jay";"Groene Gaai";0;;
@@ -10301,7 +10301,7 @@ Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Cardellina ru
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Cardellina rubra";"Red Warbler";"Rode Zanger";0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Cardellina versicolor";"Pink-headed Warbler";Rozekopzanger;0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus pictus";"Painted Redstart";Roodbuikzanger;1;birds/myioborus-pictus/large.jpg;birds/myioborus-pictus/thumb.jpg
-Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus miniatus";"Slate-throated Redstart";Meniezanger;0;;
+Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus miniatus";"Slate-throated Redstart";Meniezanger;1;birds/myioborus-miniatus/large.jpg;birds/myioborus-miniatus/thumb.jpg
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus brunniceps";"Brown-capped Redstart";Bruinkapzanger;0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus castaneocapilla";"Tepui Redstart";Tepuizanger;0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Myioborus pariae";"Paria Redstart";Geeloogzanger;0;;
