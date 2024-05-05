@@ -464,7 +464,7 @@ Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and 
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Ortygornis pondicerianus";"Gray Francolin";"Grijze Frankolijn";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Ortygornis gularis";"Swamp Francolin";Moerasfrankolijn;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Francolinus pintadeanus";"Chinese Francolin";"Chinese Frankolijn";0;;
-Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Francolinus francolinus";"Black Francolin";"Zwarte Frankolijn";0;;
+Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Francolinus francolinus";"Black Francolin";"Zwarte Frankolijn";1;birds/francolinus-francolinus/large.jpg;birds/francolinus-francolinus/thumb.jpg
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Francolinus pictus";"Painted Francolin";"Bonte Frankolijn";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Campocolinus coqui";"Coqui Francolin";Coquifrankolijn;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Campocolinus albogularis";"White-throated Francolin";Witkeelfrankolijn;0;;
@@ -3294,7 +3294,7 @@ Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Pelargopsis capensis";"Stork-
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Pelargopsis melanorhyncha";"Great-billed Kingfisher";Grootsnavelijsvogel;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon coromanda";"Ruddy Kingfisher";"Rosse IJsvogel";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon badia";"Chocolate-backed Kingfisher";Witkeelijsvogel;0;;
-Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon smyrnensis";"White-throated Kingfisher";Smyrnaijsvogel;0;;
+Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon smyrnensis";"White-throated Kingfisher";Smyrnaijsvogel;1;birds/halcyon-smyrnensis/large.jpg;birds/halcyon-smyrnensis/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon gularis";"Brown-breasted Kingfisher";Bruinborstijsvogel;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon leucocephala";"Gray-headed Kingfisher";Grijskopijsvogel;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Halcyon pileata";"Black-capped Kingfisher";Zwartkapijsvogel;0;;
