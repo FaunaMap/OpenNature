@@ -62,7 +62,7 @@ Anseriformes;Anhimidae;Screamers;Screamers;"Chauna torquata";"Southern Screamer"
 Anseriformes;Anhimidae;Screamers;Screamers;"Chauna chavaria";"Northern Screamer";Witwanghoenderkoet;0;;
 Anseriformes;Anseranatidae;"Magpie Goose";"Magpie Goose";"Anseranas semipalmata";"Magpie Goose";Ekstergans;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna guttata";"Spotted Whistling-Duck";"Gevlekte Fluiteend";0;;
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna eytoni";"Plumed Whistling-Duck";"Australische Fluiteend";0;;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna eytoni";"Plumed Whistling-Duck";"Australische Fluiteend";1;birds/dendrocygna-eytoni/large.jpg;birds/dendrocygna-eytoni/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna viduata";"White-faced Whistling-Duck";Witwangfluiteend;1;birds/dendrocygna-viduata/large.jpg;birds/dendrocygna-viduata/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna autumnalis";"Black-bellied Whistling-Duck";Zwartbuikfluiteend;1;birds/dendrocygna-autumnalis/large.jpg;birds/dendrocygna-autumnalis/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Dendrocygna arborea";"West Indian Whistling-Duck";"West-Indische Fluiteend";0;;
@@ -563,7 +563,7 @@ Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba oenas"
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba eversmanni";"Yellow-eyed Pigeon";"Oosterse Holenduif";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba oliviae";"Somali Pigeon";"Somalische Holenduif";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba palumbus";"Common Wood-Pigeon";Houtduif;1;birds/columba-palumbus/large.jpg;birds/columba-palumbus/thumb.jpg
-Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba trocaz";"Trocaz Pigeon";Trocazduif;0;;
+Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba trocaz";"Trocaz Pigeon";Trocazduif;1;birds/columba-trocaz/large.jpg;birds/columba-trocaz/thumb.jpg
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba bollii";"Bolle's Pigeon";"Bolles Laurierduif";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba unicincta";"Afep Pigeon";"Afrikaanse Houtduif";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba junoniae";"Laurel Pigeon";Laurierduif;0;;
@@ -1104,7 +1104,7 @@ Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Cuculus saturatus";"Himalayan Cuckoo";Hi
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Cuculus lepidus";"Sunda Cuckoo";Soendakoekoek;0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Cuculus canorus";"Common Cuckoo";Koekoek;1;birds/cuculus-canorus/large.jpg;birds/cuculus-canorus/thumb.jpg
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Cuculus optatus";"Oriental Cuckoo";Boskoekoek;0;;
-Caprimulgiformes;Podargidae;Frogmouths;Frogmouths;"Podargus strigoides";"Tawny Frogmouth";Uilnachtzwaluw;0;;
+Caprimulgiformes;Podargidae;Frogmouths;Frogmouths;"Podargus strigoides";"Tawny Frogmouth";Uilnachtzwaluw;1;birds/podargus-strigoides/large.jpg;birds/podargus-strigoides/thumb.jpg
 Caprimulgiformes;Podargidae;Frogmouths;Frogmouths;"Podargus ocellatus";"Marbled Frogmouth";"Gemarmerde Uilnachtzwaluw";0;;
 Caprimulgiformes;Podargidae;Frogmouths;Frogmouths;"Podargus papuensis";"Papuan Frogmouth";Reuzenuilnachtzwaluw;0;;
 Caprimulgiformes;Podargidae;Frogmouths;Frogmouths;"Rigidipenna inexpectata";"Solomons Frogmouth";Salomonskikkerbek;0;;
