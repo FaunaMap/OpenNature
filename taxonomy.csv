@@ -2213,7 +2213,7 @@ Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Anous albivitta";"Gray Noddy";"Grijze Noddy";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Anous ceruleus";"Blue-gray Noddy";"Blauwe Noddy";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Gygis alba";"White Tern";Opaalstern;0;;
-Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Onychoprion fuscatus";"Sooty Tern";"Bonte Stern";0;;
+Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Onychoprion fuscatus";"Sooty Tern";"Bonte Stern";1;birds/onychoprion-fuscatus/large.jpg;birds/onychoprion-fuscatus/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Onychoprion lunatus";"Gray-backed Tern";Fijistern;0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Onychoprion anaethetus";"Bridled Tern";Brilstern;1;birds/onychoprion-anaethetus/large.jpg;birds/onychoprion-anaethetus/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Onychoprion aleuticus";"Aleutian Tern";Aleoetenstern;0;;
@@ -2239,7 +2239,7 @@ Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna paradisaea";"Arctic Tern";"Noordse Stern";1;birds/sterna-paradisaea/large.jpg;birds/sterna-paradisaea/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna hirundinacea";"South American Tern";"Zuid-Amerikaanse Visdief";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna vittata";"Antarctic Tern";Zuidpoolstern;0;;
-Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna forsteri";"Forster's Tern";"Forsters Stern";0;;
+Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna forsteri";"Forster's Tern";"Forsters Stern";1;birds/sterna-forsteri/large.jpg;birds/sterna-forsteri/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna trudeaui";"Snowy-crowned Tern";"Trudeaus Stern";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna acuticauda";"Black-bellied Tern";Zwartbuikstern;0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sterna aurantia";"River Tern";Rivierstern;0;;
