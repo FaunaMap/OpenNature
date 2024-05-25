@@ -456,7 +456,7 @@ Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and 
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Bambusicola thoracicus";"Chinese Bamboo-Partridge";"Chinese bamboepatrijs";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Bambusicola sonorivox";"Taiwan Bamboo-Partridge";Taiwanbamboepatrijs;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Gallus varius";"Green Junglefowl";Vorkstaarthoen;0;;
-Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Gallus gallus";"Red Junglefowl";Bankivahoen;0;;
+Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Gallus gallus";"Red Junglefowl";Bankivahoen;1;birds/gallus-gallus/large.jpg;birds/gallus-gallus/thumb.jpg
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Gallus sonneratii";"Gray Junglefowl";Sonnerathoen;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Gallus lafayettii";"Sri Lanka Junglefowl";Ceylonhoen;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Peliperdix lathami";"Latham's Francolin";"Lathams Frankolijn";0;;
@@ -3327,7 +3327,7 @@ Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus colonus";"Colonis
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus sordidus";"Torresian Kingfisher";"Todiramphus sordidus";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus sanctus";"Sacred Kingfisher";"Heilige Ijsvogel";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus chloris";"Collared Kingfisher";Witkraagijsvogel;0;;
-Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus saurophagus";"Beach Kingfisher";Hagedisijsvogel;0;;
+Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus saurophagus";"Beach Kingfisher";Hagedisijsvogel;1;birds/todiramphus-saurophagus/large.jpg;birds/todiramphus-saurophagus/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus albicilla";"Mariana Kingfisher";"Todiramphus albicilla";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus tristrami";"Melanesian Kingfisher";"Todiramphus tristrami";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Todiramphus funebris";"Sombre Kingfisher";Halmaheraijsvogel;0;;
