@@ -1034,7 +1034,7 @@ Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Clamator jacobinus";"Pied Cuckoo";Jacobi
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccycua minuta";"Little Cuckoo";"Kleine Eekhoornkoekoek";0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccycua pumila";"Dwarf Cuckoo";Dwergkoekoek;0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccycua cinerea";"Ash-colored Cuckoo";"Grauwe Koekoek";0;;
-Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Piaya cayana";"Squirrel Cuckoo";Eekhoornkoekoek;0;;
+Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Piaya cayana";"Squirrel Cuckoo";Eekhoornkoekoek;1;birds/piaya-cayana/large.jpg;birds/piaya-cayana/thumb.jpg
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Piaya melanogaster";"Black-bellied Cuckoo";Zwartbuikkoekoek;0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus melacoryphus";"Dark-billed Cuckoo";"Kleine Mangrovekoekoek";0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus americanus";"Yellow-billed Cuckoo";Geelsnavelkoekoek;1;birds/coccyzus-americanus/large.jpg;birds/coccyzus-americanus/thumb.jpg
@@ -1424,7 +1424,7 @@ Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus clarisse";"L
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus spencei";"Merida Sunangel";"Amethyst-throated Sunangel (Merida)";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus amethysticollis";"Amethyst-throated Sunangel";"Amethistzonnekolibrie (amethysticollis groep)";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus strophianus";"Gorgeted Sunangel";"Gekraagde Zonnekolibrie";0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus exortis";"Tourmaline Sunangel";Toermalijnzonnekolibrie;0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus exortis";"Tourmaline Sunangel";Toermalijnzonnekolibrie;1;birds/heliangelus-exortis/large.jpg;birds/heliangelus-exortis/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus micraster";"Little Sunangel";"Kleine Zonnekolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus viola";"Purple-throated Sunangel";Violetkeelzonnekolibrie;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Heliangelus regalis";"Royal Sunangel";"Peruaanse Zonnekolibrie";0;;
@@ -1506,7 +1506,7 @@ Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Aglaeactis castelnaudii"
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Aglaeactis aliciae";"Purple-backed Sunbeam";Violetrugglanskolibrie;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Aglaeactis pamela";"Black-hooded Sunbeam";Zwartkruinglanskolibrie;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena coeligena";"Bronzy Inca";"Bronzen Incakolibrie";0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena wilsoni";"Brown Inca";"Bruine Incakolibrie";0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena wilsoni";"Brown Inca";"Bruine Incakolibrie";1;birds/coeligena-wilsoni/large.jpg;birds/coeligena-wilsoni/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena prunellei";"Black Inca";"Zwarte Incakolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena torquata";"Collared Inca";"Gekraagde Incakolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Coeligena conradii";"Green Inca";"Collared Inca (Green)";0;;
@@ -1525,8 +1525,8 @@ Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Ensifera ensifera";"Swor
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Pterophanes cyanopterus";"Great Sapphirewing";Saffiervleugelkolibrie;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Boissonneaua flavescens";"Buff-tailed Coronet";Bruinstaarthoornkolibrie;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Boissonneaua matthewsii";"Chestnut-breasted Coronet";"Matthews' Hoornkolibrie";0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Boissonneaua jardini";"Velvet-purple Coronet";Witstaarthoornkolibrie;0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Ocreatus underwoodii";"White-booted Racket-tail";"Booted Racket-tail (White-booted)";0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Boissonneaua jardini";"Velvet-purple Coronet";Witstaarthoornkolibrie;1;birds/boissonneaua-jardini/large.jpg;birds/boissonneaua-jardini/thumb.jpg
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Ocreatus underwoodii";"White-booted Racket-tail";"Booted Racket-tail (White-booted)";1;birds/ocreatus-underwoodii/large.jpg;birds/ocreatus-underwoodii/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Ocreatus peruanus";"Peruvian Racket-tail";"Booted Racket-tail (Peruvian)";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Ocreatus addae";"Rufous-booted Racket-tail";"Rufous-booted Racket-tail";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Urochroa bougueri";"Rufous-gaped Hillstar";"Rufous-gaped Hillstar";0;;
@@ -1576,7 +1576,7 @@ Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chaetocercus astreans";"
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chaetocercus berlepschi";"Esmeraldas Woodstar";"Esmeralda's Boself";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chaetocercus jourdanii";"Rufous-shafted Woodstar";"Jourdans Boself";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Philodice bryantae";"Magenta-throated Woodstar";"Costaricaanse Boself";0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Philodice mitchellii";"Purple-throated Woodstar";Paarskeelboself;0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Philodice mitchellii";"Purple-throated Woodstar";Paarskeelboself;1;birds/philodice-mitchellii/large.jpg;birds/philodice-mitchellii/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Doricha enicura";"Slender Sheartail";"Kleine Schaarstaartkolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Doricha eliza";"Mexican Sheartail";"Mexicaanse Schaarstaartkolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Calothorax lucifer";"Lucifer Hummingbird";Luciferkolibrie;0;;
@@ -1681,11 +1681,11 @@ Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Saucerottia cupreicauda"
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Saucerottia tobaci";"Copper-rumped Hummingbird";Koperrugamazilia;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia rutila";"Cinnamon Hummingbird";"Kaneelkleurige Amazilia";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia yucatanensis";"Buff-bellied Hummingbird";Yucatánamazilia;1;birds/amazilia-yucatanensis/large.jpg;birds/amazilia-yucatanensis/thumb.jpg
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia tzacatl";"Rufous-tailed Hummingbird";Roodstaartamazilia;0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia tzacatl";"Rufous-tailed Hummingbird";Roodstaartamazilia;1;birds/amazilia-tzacatl/large.jpg;birds/amazilia-tzacatl/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia luciae";"Honduran Emerald";"Hondurese Amazilia";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilia boucardi";"Mangrove Hummingbird";Mangroveamazilia;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Amazilis amazilia";"Amazilia Hummingbird";"Lessons Amazilia";0;;
-Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Uranomitra franciae";"Andean Emerald";Andesamazilia;0;;
+Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Uranomitra franciae";"Andean Emerald";Andesamazilia;1;birds/uranomitra-franciae/large.jpg;birds/uranomitra-franciae/thumb.jpg
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chrysuronia versicolor";"Versicolored Emerald";Regenboogamazilia;0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chrysuronia goudoti";"Shining-green Hummingbird";"Goudots Kolibrie";0;;
 Caprimulgiformes;Trochilidae;Hummingbirds;Hummingbirds;"Chrysuronia oenone";"Golden-tailed Sapphire";Bronsstaartsaffierkolibrie;0;;
@@ -3138,7 +3138,7 @@ Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon rufus";"Black-throated Trogon";
 Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon elegans";"Elegant Trogon";Koperstaarttrogon;0;;
 Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon mexicanus";"Mountain Trogon";"Mexicaanse Trogon";0;;
 Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon collaris";"Collared Trogon";"Gekraagde Trogon";0;;
-Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon personatus";"Masked Trogon";Maskertrogon;0;;
+Trogoniformes;Trogonidae;Trogons;Trogons;"Trogon personatus";"Masked Trogon";Maskertrogon;1;birds/trogon-personatus/large.jpg;birds/trogon-personatus/thumb.jpg
 Trogoniformes;Trogonidae;Trogons;Trogons;"Apaloderma narina";"Narina Trogon";Narinatrogon;0;;
 Trogoniformes;Trogonidae;Trogons;Trogons;"Apaloderma aequatoriale";"Bare-cheeked Trogon";Geelwangtrogon;0;;
 Trogoniformes;Trogonidae;Trogons;Trogons;"Apaloderma vittatum";"Bar-tailed Trogon";Bandstaarttrogon;0;;
@@ -3657,7 +3657,7 @@ Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes chrysauchen";"Golden-nape
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes cruentatus";"Yellow-tufted Woodpecker";Geelbrauwspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes flavifrons";"Yellow-fronted Woodpecker";Goudmaskerspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes pulcher";"Beautiful Woodpecker";Prachtspecht;0;;
-Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes pucherani";"Black-cheeked Woodpecker";Zwartwangspecht;0;;
+Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes pucherani";"Black-cheeked Woodpecker";Zwartwangspecht;1;birds/melanerpes-pucherani/large.jpg;birds/melanerpes-pucherani/thumb.jpg
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes cactorum";"White-fronted Woodpecker";Cactusspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes striatus";"Hispaniolan Woodpecker";Hispaniolaspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes radiolatus";"Jamaican Woodpecker";Jamaicaspecht;0;;
@@ -5311,7 +5311,7 @@ Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Poecilotricc
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Taeniotriccus andrei";"Black-chested Tyrant";Zwartkuiftodietiran;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum maculatum";"Spotted Tody-Flycatcher";"Gevlekte Schoffelsnavel";0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum poliocephalum";"Gray-headed Tody-Flycatcher";Grijskopschoffelsnavel;0;;
-Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum cinereum";"Common Tody-Flycatcher";Geelbuikschoffelsnavel;0;;
+Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum cinereum";"Common Tody-Flycatcher";Geelbuikschoffelsnavel;1;birds/todirostrum-cinereum/large.jpg;birds/todirostrum-cinereum/thumb.jpg
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum viridanum";"Maracaibo Tody-Flycatcher";Kortstaartschoffelsnavel;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum nigriceps";"Black-headed Tody-Flycatcher";Zwartkopschoffelsnavel;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Todirostrum pictum";"Painted Tody-Flycatcher";Witkeelschoffelsnavel;0;;
@@ -5484,7 +5484,7 @@ Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax al
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax minimus";"Least Flycatcher";"Kleine Feetiran";1;birds/empidonax-minimus/large.jpg;birds/empidonax-minimus/thumb.jpg
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax hammondii";"Hammond's Flycatcher";Sparrenfeetiran;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax wrightii";"Gray Flycatcher";Alsemfeetiran;0;;
-Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax oberholseri";"Dusky Flycatcher";Struikfeetiran;0;;
+Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax oberholseri";"Dusky Flycatcher";Struikfeetiran;1;birds/empidonax-oberholseri/large.jpg;birds/empidonax-oberholseri/thumb.jpg
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax affinis";"Pine Flycatcher";Dennenfeetiran;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax difficilis";"Pacific-slope Flycatcher";Oeverfeetiran;0;;
 Passeriformes;Tyrannidae;"Tyrant Flycatchers";"Tyrant Flycatchers";"Empidonax occidentalis";"Cordilleran Flycatcher";Hooglandfeetiran;0;;
@@ -10272,7 +10272,7 @@ Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus 
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus melanogenys";"Black-cheeked Warbler";Zwartwangzanger;0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus ignotus";"Pirre Warbler";Pirrezanger;0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus belli";"Golden-browed Warbler";Goudbrauwzanger;0;;
-Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus culicivorus";"Golden-crowned Warbler";Goudhaanzanger;0;;
+Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus culicivorus";"Golden-crowned Warbler";Goudhaanzanger;1;birds/basileuterus-culicivorus/large.jpg;birds/basileuterus-culicivorus/thumb.jpg
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus melanotis";"Costa Rican Warbler";"Costa Rican Warbler";0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus tacarcunae";"Tacarcuna Warbler";"Tacarcuna Warbler";0;;
 Passeriformes;Parulidae;"New World Warblers";"New World Warblers";"Basileuterus tristriatus";"Three-striped Warbler";Driestreepzanger;0;;
@@ -10635,7 +10635,7 @@ Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis ol
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis mendozae";"Monte Yellow-Finch";Montesaffraangors;0;;
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis lebruni";"Patagonian Yellow-Finch";"Patagonische Saffraangors";0;;
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis columbiana";"Orange-fronted Yellow-Finch";Dwergsaffraangors;0;;
-Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis flaveola";"Saffron Finch";"Gewone Saffraangors";0;;
+Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis flaveola";"Saffron Finch";"Gewone Saffraangors";1;birds/sicalis-flaveola/large.jpg;birds/sicalis-flaveola/thumb.jpg
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis luteola";"Grassland Yellow-Finch";Graslandsaffraangors;0;;
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis raimondii";"Raimondi's Yellow-Finch";Grijsflanksaffraangors;0;;
 Passeriformes;Thraupidae;"Tanagers and Allies";"Tanagers and Allies";"Sicalis taczanowskii";"Sulphur-throated Finch";Geelkinsaffraangors;0;;
