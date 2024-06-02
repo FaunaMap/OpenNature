@@ -88,7 +88,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Branta sandvicensis";"Hawaiian Goose";Hawaiigans;1;birds/branta-sandvicensis/large.jpg;birds/branta-sandvicensis/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Branta ruficollis";"Red-breasted Goose";Roodhalsgans;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cereopsis novaehollandiae";"Cape Barren Goose";Hoendergans;1;birds/cereopsis-novaehollandiae/large.jpg;birds/cereopsis-novaehollandiae/thumb.jpg
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Stictonetta naevosa";"Freckled Duck";Stippeleend;0;;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Stictonetta naevosa";"Freckled Duck";Stippeleend;1;birds/stictonetta-naevosa/large.jpg;birds/stictonetta-naevosa/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cyanochen cyanoptera";"Blue-winged Goose";Blauwvleugelgans;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cygnus olor";"Mute Swan";Knobbelzwaan;1;birds/cygnus-olor/large.jpg;birds/cygnus-olor/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Cygnus atratus";"Black Swan";"Zwarte Zwaan";1;birds/cygnus-atratus/large.jpg;birds/cygnus-atratus/thumb.jpg
@@ -153,7 +153,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas melleri";"Meller's Duck";"Mellers Eend";0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas superciliosa";"Pacific Black Duck";Wenkbrauweend;0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas laysanensis";"Laysan Duck";Laysaneend;1;birds/anas-laysanensis/large.jpg;birds/anas-laysanensis/thumb.jpg
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas wyvilliana";"Hawaiian Duck";Hawaii-eend;0;;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas wyvilliana";"Hawaiian Duck";Hawaii-eend;1;birds/anas-wyvilliana/large.jpg;birds/anas-wyvilliana/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas luzonica";"Philippine Duck";"Filippijnse Eend";0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas poecilorhyncha";"Indian Spot-billed Duck";"Indische Vlekbekeend";0;;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Anas zonorhyncha";"Eastern Spot-billed Duck";"Chinese Vlekbekeend";0;;
