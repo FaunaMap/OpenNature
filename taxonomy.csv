@@ -1039,7 +1039,7 @@ Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Piaya melanogaster";"Black-bellied Cucko
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus melacoryphus";"Dark-billed Cuckoo";"Kleine Mangrovekoekoek";0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus americanus";"Yellow-billed Cuckoo";Geelsnavelkoekoek;1;birds/coccyzus-americanus/large.jpg;birds/coccyzus-americanus/thumb.jpg
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus euleri";"Pearly-breasted Cuckoo";Witbuikkoekoek;0;;
-Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus minor";"Mangrove Cuckoo";Mangrovekoekoek;0;;
+Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus minor";"Mangrove Cuckoo";Mangrovekoekoek;1;birds/coccyzus-minor/large.jpg;birds/coccyzus-minor/thumb.jpg
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus ferrugineus";"Cocos Cuckoo";Cocoskoekoek;0;;
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus erythropthalmus";"Black-billed Cuckoo";Zwartsnavelkoekoek;1;birds/coccyzus-erythropthalmus/large.jpg;birds/coccyzus-erythropthalmus/thumb.jpg
 Cuculiformes;Cuculidae;Cuckoos;Cuckoos;"Coccyzus lansbergi";"Gray-capped Cuckoo";Grijskopkoekoek;0;;
@@ -2224,7 +2224,7 @@ Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sternula lorata";"Peruvian Tern";Humboldtstern;0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sternula saundersi";"Saunders's Tern";"Saunders' Dwergstern";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Sternula balaenarum";"Damara Tern";Damarastern;0;;
-Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Phaetusa simplex";"Large-billed Tern";Grootsnavelstern;0;;
+Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Phaetusa simplex";"Large-billed Tern";Grootsnavelstern;1;birds/phaetusa-simplex/large.jpg;birds/phaetusa-simplex/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Gelochelidon nilotica";"Gull-billed Tern";Lachstern;1;birds/gelochelidon-nilotica/large.jpg;birds/gelochelidon-nilotica/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Hydroprogne caspia";"Caspian Tern";Reuzenstern;1;birds/hydroprogne-caspia/large.jpg;birds/hydroprogne-caspia/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larosterna inca";"Inca Tern";Incastern;0;;
@@ -2723,7 +2723,7 @@ Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kite
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Melierax canorus";"Pale Chanting-Goshawk";Zanghavik;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Micronisus gabar";"Gabar Goshawk";Gabarhavik;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Busarellus nigricollis";"Black-collared Hawk";Moerasbuizerd;0;;
-Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Rostrhamus sociabilis";"Snail Kite";Slakkenwouw;0;;
+Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Rostrhamus sociabilis";"Snail Kite";Slakkenwouw;1;birds/rostrhamus-sociabilis/large.jpg;birds/rostrhamus-sociabilis/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Helicolestes hamatus";"Slender-billed Kite";Slanksnavelwouw;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Harpagus bidentatus";"Double-toothed Kite";Tandwouw;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Harpagus diodon";"Rufous-thighed Kite";Roodbroekwouw;0;;
