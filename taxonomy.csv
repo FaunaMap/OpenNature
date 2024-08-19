@@ -2522,7 +2522,7 @@ Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitt
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ixobrychus flavicollis";"Black Bittern";"Zwarte Woudaap";1;birds/ixobrychus-flavicollis/large.jpg;birds/ixobrychus-flavicollis/thumb.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ixobrychus exilis";"Least Bittern";"Amerikaanse Woudaap";1;birds/ixobrychus-exilis/large.jpg;birds/ixobrychus-exilis/thumb.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ixobrychus involucris";"Stripe-backed Bittern";"Gestreepte Woudaap";0;;
-Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Tigrisoma lineatum";"Rufescent Tiger-Heron";"Rosse Tijgerroerdomp";0;;
+Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Tigrisoma lineatum";"Rufescent Tiger-Heron";"Rosse Tijgerroerdomp";1;birds/tigrisoma-lineatum/large.jpg;birds/tigrisoma-lineatum/thumb.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Tigrisoma fasciatum";"Fasciated Tiger-Heron";"Gestreepte Tijgerroerdomp";0;;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Tigrisoma mexicanum";"Bare-throated Tiger-Heron";"Mexicaanse Tijgerroerdomp";0;;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Zonerodius heliosylus";"Forest Bittern";"Nieuw-Guinese Tijgerroerdomp";0;;
@@ -2824,7 +2824,7 @@ Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kite
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Buteogallus solitarius";"Solitary Eagle";"Amerikaanse Zwarte Arend";0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Buteogallus coronatus";"Chaco Eagle";Kransarend;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Morphnarchus princeps";"Barred Hawk";"Sclaters Buizerd";0;;
-Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Rupornis magnirostris";"Roadside Hawk";Wegbuizerd;0;;
+Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Rupornis magnirostris";"Roadside Hawk";Wegbuizerd;1;birds/rupornis-magnirostris/large.jpg;birds/rupornis-magnirostris/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Parabuteo unicinctus";"Harris's Hawk";Woestijnbuizerd;1;birds/parabuteo-unicinctus/large.jpg;birds/parabuteo-unicinctus/thumb.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Parabuteo leucorrhous";"White-rumped Hawk";Witstuitbuizerd;0;;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Geranoaetus albicaudatus";"White-tailed Hawk";Witstaartbuizerd;0;;
@@ -3354,7 +3354,7 @@ Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Tanysiptera sylvia";"Buff-bre
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Tanysiptera nigriceps";"Black-capped Paradise-Kingfisher";"Australische Vlagstaartijsvogel (nigriceps/leucura)";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Megaceryle maxima";"Giant Kingfisher";"Afrikaanse Reuzenijsvogel";0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Megaceryle lugubris";"Crested Kingfisher";"Chinese Reuzenijsvogel";0;;
-Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Megaceryle torquata";"Ringed Kingfisher";"Amerikaanse Reuzenijsvogel";0;;
+Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Megaceryle torquata";"Ringed Kingfisher";"Amerikaanse Reuzenijsvogel";1;birds/megaceryle-torquata/large.jpg;birds/megaceryle-torquata/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Megaceryle alcyon";"Belted Kingfisher";Bandijsvogel;1;birds/megaceryle-alcyon/large.jpg;birds/megaceryle-alcyon/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Ceryle rudis";"Pied Kingfisher";"Bonte IJsvogel";1;birds/ceryle-rudis/large.jpg;birds/ceryle-rudis/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Chloroceryle amazona";"Amazon Kingfisher";Amazoneijsvogel;0;;
@@ -3803,7 +3803,7 @@ Piciformes;Picidae;Woodpeckers;Woodpeckers;"Mulleripicus fulvus";"Ashy Woodpecke
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Mulleripicus funebris";"Northern Sooty-Woodpecker";Treurspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Mulleripicus fuliginosus";"Southern Sooty-Woodpecker";"Grijze Treurspecht";0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Mulleripicus pulverulentus";"Great Slaty Woodpecker";Poederspecht;0;;
-Piciformes;Picidae;Woodpeckers;Woodpeckers;"Dryocopus lineatus";"Lineated Woodpecker";"Gestreepte Helmspecht";0;;
+Piciformes;Picidae;Woodpeckers;Woodpeckers;"Dryocopus lineatus";"Lineated Woodpecker";"Gestreepte Helmspecht";1;birds/dryocopus-lineatus/large.jpg;birds/dryocopus-lineatus/thumb.jpg
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Dryocopus pileatus";"Pileated Woodpecker";"Noord-Amerikaanse Helmspecht";1;birds/dryocopus-pileatus/large.jpg;birds/dryocopus-pileatus/thumb.jpg
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Dryocopus schulzii";"Black-bodied Woodpecker";Zwartbuikhelmspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Dryocopus javensis";"White-bellied Woodpecker";Witbuikspecht;0;;
