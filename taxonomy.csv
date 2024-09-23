@@ -7651,7 +7651,7 @@ Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus negle
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus subaffinis";"Buff-throated Warbler";"Chinese Boszanger";0;;
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus trochilus";"Willow Warbler";Fitis;1;birds/phylloscopus-trochilus/large.jpg;birds/phylloscopus-trochilus/thumb.jpg
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus sindianus";"Mountain Chiffchaff";Bergtjiftjaf;0;;
-Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus canariensis";"Canary Islands Chiffchaff";"Canarische Tjiftjaf";0;;
+Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus canariensis";"Canary Islands Chiffchaff";"Canarische Tjiftjaf";1;birds/phylloscopus-canariensis/large.jpg;birds/phylloscopus-canariensis/thumb.jpg
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus collybita";"Common Chiffchaff";Tjiftjaf;1;birds/phylloscopus-collybita/large.jpg;birds/phylloscopus-collybita/thumb.jpg
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus ibericus";"Iberian Chiffchaff";"Iberische Tjiftjaf";0;;
 Passeriformes;Phylloscopidae;"Leaf Warblers";"Leaf Warblers";"Phylloscopus cebuensis";"Lemon-throated Leaf Warbler";"Dubois' Boszanger";0;;
@@ -9643,7 +9643,7 @@ Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus v
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus pallidiventris";"Long-legged Pipit";Langpootpieper;0;;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus nilghiriensis";"Nilgiri Pipit";Nilgiripieper;0;;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus sylvanus";"Upland Pipit";Hooglandpieper;0;;
-Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus berthelotii";"Berthelot's Pipit";"Berthelots Pieper";0;;
+Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus berthelotii";"Berthelot's Pipit";"Berthelots Pieper";1;birds/anthus-berthelotii/large.jpg;birds/anthus-berthelotii/thumb.jpg
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus melindae";"Malindi Pipit";Malindipieper;0;;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus lineiventris";"Striped Pipit";"Gestreepte Pieper";0;;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus crenatus";"Yellow-tufted Pipit";Kopjespieper;0;;
