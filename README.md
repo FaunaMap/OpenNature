@@ -5,7 +5,7 @@ We believe that data about our natural world should be open to the general publi
 This library aims to provide free to use information about all living species, starting with <strong>a royalty free image of each bird species</strong>.
 
 <!-- DYNAMIC BADGES -->
-<div><img alt="Bird species in taxonomy" src="https://img.shields.io/badge/Bird_species_in_taxonomy-10750_species-blue"></div>
+<div><img alt="Bird species in taxonomy" src="https://img.shields.io/badge/Bird_species_in_taxonomy-10751_species-blue"></div>
 <div><img alt="Species with a free image" src="https://img.shields.io/badge/Species_with_a_free_image-873_species-green"></div>
 <div><img alt="Taxonomy coverage" src="https://img.shields.io/badge/Taxonomy_coverage-8.12%25-green"></div>
 <div><img alt="Total dataset size" src="https://img.shields.io/badge/Total_dataset_size-187.04_MB-green"></div>
