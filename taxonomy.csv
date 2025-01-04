@@ -557,7 +557,7 @@ Podicipediformes;Podicipedidae;Grebes;Grebes;"Aechmophorus clarkii";"Clark's Gre
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba livia";"Rock Pigeon";Rotsduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba rupestris";"Hill Pigeon";Klipduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba leuconota";"Snow Pigeon";Sneeuwduif;0;;
-Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba guinea";"Speckled Pigeon";"Gespikkelde Duif";0;;
+Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba guinea";"Speckled Pigeon";"Gespikkelde Duif";1;birds/columba-guinea/large.jpg;birds/columba-guinea/thumb.jpg
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba albitorques";"White-collared Pigeon";Witkraagduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba oenas";"Stock Dove";Holenduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Columba eversmanni";"Yellow-eyed Pigeon";"Oosterse Holenduif";0;;
