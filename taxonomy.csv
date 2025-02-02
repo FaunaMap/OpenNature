@@ -3174,7 +3174,7 @@ Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros hemprichii";"Hemprich
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros nasutus";"African Gray Hornbill";"Grijze Tok";1;birds/lophoceros-nasutus/large.jpg;birds/lophoceros-nasutus/thumb.jpg
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Lophoceros pallidirostris";"Pale-billed Hornbill";Diksnaveltok;0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus flavirostris";"Eastern Yellow-billed Hornbill";"Ethiopische Geelsnaveltok";0;;
-Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus leucomelas";"Southern Yellow-billed Hornbill";"Zuidelijke Geelsnaveltok";0;;
+Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus leucomelas";"Southern Yellow-billed Hornbill";"Zuidelijke Geelsnaveltok";1;birds/tockus-leucomelas/large.jpg;birds/tockus-leucomelas/thumb.jpg
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus jacksoni";"Jackson's Hornbill";"Jacksons Tok";0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus deckeni";"Von der Decken's Hornbill";"Von der Deckens Tok";0;;
 Bucerotiformes;Bucerotidae;Hornbills;Hornbills;"Tockus monteiri";"Monteiro's Hornbill";"Monteiro's Tok";0;;
@@ -6483,7 +6483,7 @@ Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus occidentalis";"Western Square
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus sharpei";"Sharpe's Drongo";"Sharpe's Drongo";0;;
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus ludwigii";"Common Square-tailed Drongo";"Common Square-tailed Drongo";0;;
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus atripennis";"Shining Drongo";Staalglansdrongo;0;;
-Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus adsimilis";"Fork-tailed Drongo";"Fork-tailed Drongo";0;;
+Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus adsimilis";"Fork-tailed Drongo";"Fork-tailed Drongo";1;birds/dicrurus-adsimilis/large.jpg;birds/dicrurus-adsimilis/thumb.jpg
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus divaricatus";"Glossy-backed Drongo";"Glossy-backed Drongo";0;;
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus atactus";"Fanti Drongo";"Fanti Drongo";0;;
 Passeriformes;Dicruridae;Drongos;Drongos;"Dicrurus modestus";"Velvet-mantled Drongo";"Velvet-mantled Drongo";0;;
@@ -7183,7 +7183,7 @@ Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prin
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia sylvatica";"Jungle Prinia";Jungleprinia;0;;
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia flaviventris";"Yellow-bellied Prinia";Geelbuikprinia;0;;
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia socialis";"Ashy Prinia";"Grijze Prinia";0;;
-Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia subflava";"Tawny-flanked Prinia";Roestflankprinia;0;;
+Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia subflava";"Tawny-flanked Prinia";Roestflankprinia;1;birds/prinia-subflava/large.jpg;birds/prinia-subflava/thumb.jpg
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia inornata";"Plain Prinia";Witteugelprinia;0;;
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia somalica";"Pale Prinia";"Bleke Prinia";0;;
 Passeriformes;Cisticolidae;"Cisticolas and Allies";"Cisticolas and Allies";"Prinia fluviatilis";"River Prinia";Rivierprinia;0;;
