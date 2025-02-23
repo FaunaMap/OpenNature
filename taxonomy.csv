@@ -3283,7 +3283,7 @@ Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Ispidina picta";"African Pygm
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Ispidina lecontei";"African Dwarf Kingfisher";Bruinkopdwergijsvogel;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Lacedo pulchella";"Banded Kingfisher";Zebraijsvogel;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo novaeguineae";"Laughing Kookaburra";Kookaburra;1;birds/dacelo-novaeguineae/large.jpg;birds/dacelo-novaeguineae/thumb.jpg
-Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo leachii";"Blue-winged Kookaburra";Blauwvleugelkookaburra;0;;
+Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo leachii";"Blue-winged Kookaburra";Blauwvleugelkookaburra;1;birds/dacelo-leachii/large.jpg;birds/dacelo-leachii/thumb.jpg
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo tyro";"Spangled Kookaburra";Aroekookaburra;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo gaudichaud";"Rufous-bellied Kookaburra";Roodbuikkookaburra;0;;
 Coraciiformes;Alcedinidae;Kingfishers;Kingfishers;"Dacelo rex";"Shovel-billed Kookaburra";Kikkerbekijsvogel;0;;
@@ -3664,7 +3664,7 @@ Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes radiolatus";"Jamaican Woo
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes chrysogenys";"Golden-cheeked Woodpecker";Goudwangspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes hypopolius";"Gray-breasted Woodpecker";Grijskeelspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes pygmaeus";"Yucatan Woodpecker";Yucatánspecht;0;;
-Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes rubricapillus";"Red-crowned Woodpecker";Roodkruinspecht;0;;
+Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes rubricapillus";"Red-crowned Woodpecker";Roodkruinspecht;1;birds/melanerpes-rubricapillus/large.jpg;birds/melanerpes-rubricapillus/thumb.jpg
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes uropygialis";"Gila Woodpecker";Gilaspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes hoffmannii";"Hoffmann's Woodpecker";"Hoffmanns Specht";0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Melanerpes aurifrons";"Golden-fronted Woodpecker";Goudvoorhoofdspecht;0;;
@@ -3751,7 +3751,7 @@ Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus pollens";"Powerful Woodp
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus haematogaster";"Crimson-bellied Woodpecker";"Grote Roodbuikspecht";0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus rubricollis";"Red-necked Woodpecker";Roodnekspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus robustus";"Robust Woodpecker";"Grote Roodkopspecht";0;;
-Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus melanoleucos";"Crimson-crested Woodpecker";Zwartkeelspecht;0;;
+Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus melanoleucos";"Crimson-crested Woodpecker";Zwartkeelspecht;1;birds/campephilus-melanoleucos/large.jpg;birds/campephilus-melanoleucos/thumb.jpg
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus guatemalensis";"Pale-billed Woodpecker";Koningsspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus gayaquilensis";"Guayaquil Woodpecker";Guayaquilspecht;0;;
 Piciformes;Picidae;Woodpeckers;Woodpeckers;"Campephilus leucopogon";"Cream-backed Woodpecker";Crèmerugspecht;0;;
