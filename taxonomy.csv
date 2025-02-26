@@ -518,7 +518,7 @@ Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and 
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis jacksoni";"Jackson's Spurfowl";"Jacksons Frankolijn";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis adspersus";"Red-billed Spurfowl";Roodsnavelfrankolijn;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis capensis";"Cape Spurfowl";"Kaapse Frankolijn";0;;
-Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis natalensis";"Natal Spurfowl";Natalfrankolijn;0;;
+Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis natalensis";"Natal Spurfowl";Natalfrankolijn;1;birds/pternistis-natalensis/large.jpg;birds/pternistis-natalensis/thumb.jpg
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis hildebrandti";"Hildebrandt's Spurfowl";"Hildebrandts Frankolijn";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis bicalcaratus";"Double-spurred Spurfowl";"Barbarijse Frankolijn";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pternistis squamatus";"Scaly Spurfowl";"Geschubde Frankolijn";0;;
@@ -644,7 +644,7 @@ Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Reinwardtoena 
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turacoena manadensis";"White-faced Cuckoo-Dove";Witmaskerduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turacoena sulaensis";"Sula Cuckoo-Dove";"Sula Cuckoo-Dove";0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turacoena modesta";"Slaty Cuckoo-Dove";"Timorese Zwarte Duif";0;;
-Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turtur chalcospilos";"Emerald-spotted Wood-Dove";Smaragdvlekduif;0;;
+Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turtur chalcospilos";"Emerald-spotted Wood-Dove";Smaragdvlekduif;1;birds/turtur-chalcospilos/large.jpg;birds/turtur-chalcospilos/thumb.jpg
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turtur abyssinicus";"Black-billed Wood-Dove";Zwartsnavelduif;0;;
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turtur afer";"Blue-spotted Wood-Dove";Staalvlekduif;1;birds/turtur-afer/large.jpg;birds/turtur-afer/thumb.jpg
 Columbiformes;Columbidae;"Pigeons and Doves";"Pigeons and Doves";"Turtur tympanistria";"Tambourine Dove";Tamboerijnduif;0;;
@@ -950,7 +950,7 @@ Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco erythrolophus";"Red-creste
 Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco hartlaubi";"Hartlaub's Turaco";"Hartlaubs Toerako";0;;
 Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco leucotis";"White-cheeked Turaco";Witwangtoerako;0;;
 Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco ruspolii";"Prince Ruspoli's Turaco";"Prins Ruspoli's Toerako";0;;
-Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco porphyreolophus";"Purple-crested Turaco";Purperkuiftoerako;0;;
+Musophagiformes;Musophagidae;Turacos;Turacos;"Tauraco porphyreolophus";"Purple-crested Turaco";Purperkuiftoerako;1;birds/tauraco-porphyreolophus/large.jpg;birds/tauraco-porphyreolophus/thumb.jpg
 Musophagiformes;Musophagidae;Turacos;Turacos;"Ruwenzorornis johnstoni";"Rwenzori Turaco";Ruwenzoritoerako;0;;
 Musophagiformes;Musophagidae;Turacos;Turacos;"Musophaga violacea";"Violet Turaco";"Violette Toerako";0;;
 Musophagiformes;Musophagidae;Turacos;Turacos;"Musophaga rossae";"Ross's Turaco";"Lady Ross' Toerako";0;;
@@ -1964,7 +1964,7 @@ Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Char
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius melodus";"Piping Plover";Dwergplevier;1;birds/charadrius-melodus/large.jpg;birds/charadrius-melodus/thumb.jpg
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius thoracicus";"Madagascar Plover";Madagaskarplevier;0;;
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius dubius";"Little Ringed Plover";"Kleine Plevier";1;birds/charadrius-dubius/large.jpg;birds/charadrius-dubius/thumb.jpg
-Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius tricollaris";"Three-banded Plover";Driebandplevier;0;;
+Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius tricollaris";"Three-banded Plover";Driebandplevier;1;birds/charadrius-tricollaris/large.jpg;birds/charadrius-tricollaris/thumb.jpg
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius forbesi";"Forbes's Plover";"Forbes' Plevier";0;;
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius marginatus";"White-fronted Plover";"Vale Strandplevier";0;;
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Charadrius pallidus";"Chestnut-banded Plover";"Kaapse Plevier";0;;
@@ -6260,7 +6260,7 @@ Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus chloroc
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus crassirostris";"Sao Tome Oriole";São-Toméwielewaal;0;;
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus brachyrynchus";"Western Black-headed Oriole";Blauwvleugelwielewaal;0;;
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus monacha";"Ethiopian Black-headed Oriole";Monnikswielewaal;0;;
-Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus larvatus";"African Black-headed Oriole";Maskerwielewaal;0;;
+Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus larvatus";"African Black-headed Oriole";Maskerwielewaal;1;birds/oriolus-larvatus/large.jpg;birds/oriolus-larvatus/thumb.jpg
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus percivali";"Black-tailed Oriole";Bergwielewaal;0;;
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus nigripennis";"Black-winged Oriole";Zwartvleugelwielewaal;0;;
 Passeriformes;Oriolidae;"Old World Orioles";"Old World Orioles";"Oriolus xanthornus";"Black-hooded Oriole";Zwartkopwielewaal;0;;
@@ -7451,7 +7451,7 @@ Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis cucullata";"Greater Strip
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis daurica";"Red-rumped Swallow";Roodstuitzwaluw;1;birds/cecropis-daurica/large.jpg;birds/cecropis-daurica/thumb.jpg
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis hyperythra";"Sri Lanka Swallow";Ceylonzwaluw;0;;
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis striolata";"Striated Swallow";Soendazwaluw;0;;
-Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis abyssinica";"Lesser Striped Swallow";Savannezwaluw;0;;
+Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis abyssinica";"Lesser Striped Swallow";Savannezwaluw;1;birds/cecropis-abyssinica/large.jpg;birds/cecropis-abyssinica/thumb.jpg
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis semirufa";"Rufous-chested Swallow";Roodborstzwaluw;0;;
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis senegalensis";"Mosque Swallow";Moskeezwaluw;0;;
 Passeriformes;Hirundinidae;Swallows;Swallows;"Cecropis badia";"Rufous-bellied Swallow";Roodbuikzwaluw;0;;
@@ -9137,7 +9137,7 @@ Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhun
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Anthreptes seimundi";"Little Green Sunbird";Kortstaarthoningzuiger;0;;
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Anthreptes rectirostris";"Green Sunbird";Goudbandhoningzuiger;0;;
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Anthreptes rubritorques";"Banded Sunbird";Roodbandhoningzuiger;0;;
-Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Hedydipna collaris";"Collared Sunbird";Halsbandhoningzuiger;0;;
+Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Hedydipna collaris";"Collared Sunbird";Halsbandhoningzuiger;1;birds/hedydipna-collaris/large.jpg;birds/hedydipna-collaris/thumb.jpg
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Hedydipna platura";"Pygmy Sunbird";"Kleine Honingzuiger";0;;
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Hedydipna metallica";"Nile Valley Sunbird";Nijlhoningzuiger;0;;
 Passeriformes;Nectariniidae;"Sunbirds and Spiderhunters";"Sunbirds and Spiderhunters";"Hedydipna pallidigaster";"Amani Sunbird";Amanihoningzuiger;0;;
